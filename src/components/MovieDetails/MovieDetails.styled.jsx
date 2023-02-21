@@ -10,7 +10,6 @@ export const DescriptionFilm = styled.div`
 `;
 
 export const TitleFilm = styled.h2`
-  text-transform: uppercase;
   font-family: Roboto;
   font-weight: 700;
   font-size: 30px;

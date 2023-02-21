@@ -3,7 +3,6 @@ import styled from '@emotion/styled';
 export const CastTitle = styled.h2`
   margin-top: 30px;
   color: grey;
-  text-transform: uppercase;
   font-family: Roboto;
   font-weight: 700;
   font-size: 30px;

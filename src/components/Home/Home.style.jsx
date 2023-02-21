@@ -4,7 +4,7 @@ export const TrendTitle = styled.h1`
   text-align: center;
   font-size: 32px;
   line-height: 1.36;
-  text-transform: uppercase;
+  color: red;
 `;
 
 export const FilmTitle = styled.h2`
