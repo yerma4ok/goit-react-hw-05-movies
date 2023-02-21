@@ -3,7 +3,7 @@ import { useEffect, useState } from 'react';
 import { useParams } from 'react-router-dom';
 import { DateUpdate, Review } from './MovieReviews.styled';
 
-const Reviews = () => {
+const MovieReviews = () => {
   const [reviews, setReviews] = useState([]);
   const { movieId } = useParams();
 

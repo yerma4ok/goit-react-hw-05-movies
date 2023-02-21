@@ -5,8 +5,8 @@ import { Container } from './App.styled';
 const Home = lazy(() => import('./Home'));
 const Movies = lazy(() => import('./Movies'));
 const MovieDetails = lazy(() => import('./MovieDetails'));
-const Reviews = lazy(() => import('./MovieReviews'));
-const Cast = lazy(() => import('./MovieCast'));
+const MovieReviews = lazy(() => import('./MovieReviews'));
+const MovieCast = lazy(() => import('./MovieCast'));
 const SharedLayout = lazy(() => import('./SharedLayout'));
 
 export const App = () => {

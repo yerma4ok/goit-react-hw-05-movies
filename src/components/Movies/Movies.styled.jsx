@@ -1,7 +1,8 @@
 import styled from '@emotion/styled';
-import { GrFormSearch } from 'react-icons/gr';
+import { GrFormSearch } from "react-icons/gr";
 
 export const SearchForm = styled.form`
+
   display: flex;
   align-items: center;
   margin-top: 20px;
@@ -54,7 +55,7 @@ export const SearchFormInput = styled.input`
   display: inline-block;
   width: 100%;
   font: inherit;
-  font-size: 20px;
+  font-size: 16px;
   border: none;
   outline: none;
   padding-left: 4px;

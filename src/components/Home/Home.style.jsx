@@ -2,7 +2,7 @@ import styled from '@emotion/styled';
 
 export const TrendTitle = styled.h1`
   text-align: center;
-  font-size: 44px;
+  font-size: 32px;
   line-height: 1.36;
   text-transform: uppercase;
 `;
