@@ -17,9 +17,9 @@ export const HeaderLink = styled(NavLink)`
   }
   :hover,
   :focus {
-    color: #b00000;
+    color: red;
   }
   &.active {
-    color: #b00000;
+    color: red;
   }
 `;
